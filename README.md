@@ -91,6 +91,7 @@ client.loop_forever()
 
 Foto das mensagem sendo enviadas local
 ![Foto do Código python publicador executando](publicador.jpg)
+
 Foto das mensagens sendo recebidas na EC2
 ![Foto da EC2 executando o assinante](assinante.jpg)
 

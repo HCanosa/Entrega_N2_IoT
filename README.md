@@ -89,8 +89,8 @@ client.loop_forever()
 
 ### Capturas de tela ou registros demonstrando as mensagens publicadas e recebidas
 
-![Foto do Código python publicador executando](publicador.jpeg)
-![Foto da EC2 executando o assinante](assinante.jpeg)
+![Foto do Código python publicador executando](publicador.jpg)
+![Foto da EC2 executando o assinante](assinante.jpg)
 
 ### **Relatório com os desafios enfrentados e como foram resolvidos**
 

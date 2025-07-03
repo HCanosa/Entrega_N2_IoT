@@ -131,7 +131,11 @@ Solução: Erros de sintaxe foram resolvidos ao revisar e reescrever completamen
 #### **Integrantes do grupo**
 
 Apollo
+
 Bruno T
+
 Eric
+
 Felipe T
+
 Henrique
